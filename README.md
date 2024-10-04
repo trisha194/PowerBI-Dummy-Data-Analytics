@@ -1,5 +1,8 @@
 # PowerBI-Dummy-Data-Analytics
 
+## Dashboard Preview
+![Dashboard Screenshot](./images/Project-DashBoard-PowerBI.png)
+
 ## Project Overview
 This repository contains a Power BI dashboard that demonstrates data visualization and analytics skills using a **dummy dataset** generated through Python. The dashboard provides insights into **sales, customer behavior, product performance**, and **order trends**. This project was developed as part of my Power BI learning and practice.
 

@@ -1,0 +1,501 @@
+ProductID,ProductName,Price,Category
+1,Fridge,567.89,Home Appliances
+2,Smartphone,84.23,Accessories
+3,Smartwatch,621.95,Electronics
+4,Keyboard,1557.63,Home Appliances
+5,Headphones,1060.02,Accessories
+6,Speaker,728.79,Electronics
+7,Laptop,774.89,Electronics
+8,Headphones,52.64,Home Appliances
+9,TV,634.61,Electronics
+10,Smartphone,1310.59,Home Appliances
+11,Camera,1949.68,Electronics
+12,Mouse,1701.77,Office Supplies
+13,Printer,96.01,Accessories
+14,Camera,1802.19,Office Supplies
+15,Router,1577.24,Home Appliances
+16,Headphones,1571.73,Office Supplies
+17,Monitor,943.09,Home Appliances
+18,Tablet,826.11,Electronics
+19,Monitor,640.69,Electronics
+20,Camera,178.1,Home Appliances
+21,TV,495.06,Office Supplies
+22,Monitor,530.88,Electronics
+23,Laptop,993.95,Accessories
+24,Monitor,1507.52,Electronics
+25,Keyboard,973.93,Accessories
+26,Mouse,162.8,Office Supplies
+27,Headphones,1917.69,Accessories
+28,Fridge,1888.31,Accessories
+29,Washing Machine,1581.12,Accessories
+30,Smartwatch,1983.09,Accessories
+31,Monitor,1111.74,Electronics
+32,Smartphone,1927.4,Accessories
+33,Smartwatch,197.43,Electronics
+34,Mouse,763.08,Accessories
+35,Speaker,489.49,Home Appliances
+36,Fridge,431.87,Office Supplies
+37,TV,324.57,Accessories
+38,Mouse,1263.71,Home Appliances
+39,Monitor,1573.58,Accessories
+40,Mouse,1177.68,Accessories
+41,Smartwatch,336.58,Accessories
+42,Tablet,1631.69,Home Appliances
+43,TV,1290.11,Office Supplies
+44,Monitor,806.92,Home Appliances
+45,Laptop,1364.55,Office Supplies
+46,Camera,556.81,Accessories
+47,Keyboard,723.12,Electronics
+48,Printer,1839.1,Accessories
+49,Gaming Console,616.48,Office Supplies
+50,Router,966.48,Home Appliances
+51,TV,1785.78,Accessories
+52,Mouse,1430.06,Home Appliances
+53,Laptop,171.3,Home Appliances
+54,Headphones,337.24,Home Appliances
+55,Headphones,65.29,Accessories
+56,Router,1280.3,Home Appliances
+57,Washing Machine,922.96,Home Appliances
+58,TV,311.84,Accessories
+59,TV,1917.97,Home Appliances
+60,Keyboard,1082.84,Accessories
+61,Washing Machine,521.69,Office Supplies
+62,Mouse,1026.18,Office Supplies
+63,Fridge,1375.26,Office Supplies
+64,Tablet,198.67,Home Appliances
+65,Router,585.67,Electronics
+66,Keyboard,1623.58,Electronics
+67,Mouse,946.35,Home Appliances
+68,Smartwatch,1115.83,Electronics
+69,Laptop,893.99,Accessories
+70,Gaming Console,135.6,Electronics
+71,Camera,373.21,Home Appliances
+72,Tablet,918.81,Home Appliances
+73,Fridge,457.91,Accessories
+74,Smartwatch,147.46,Office Supplies
+75,Smartwatch,1695.12,Home Appliances
+76,Washing Machine,1963.33,Accessories
+77,Printer,1596.63,Electronics
+78,Headphones,1714.88,Electronics
+79,Smartphone,521.86,Accessories
+80,Laptop,1923.22,Accessories
+81,Headphones,434.01,Home Appliances
+82,Monitor,1905.29,Electronics
+83,Gaming Console,1989.9,Accessories
+84,Smartwatch,1437.86,Electronics
+85,Smartphone,1963.23,Accessories
+86,TV,1160.6,Electronics
+87,Headphones,556.11,Office Supplies
+88,Fridge,902.14,Home Appliances
+89,Fridge,1207.44,Electronics
+90,Fridge,192.51,Office Supplies
+91,Keyboard,1263.57,Electronics
+92,Tablet,1963.3,Electronics
+93,Speaker,420.71,Office Supplies
+94,Headphones,1595.56,Electronics
+95,Washing Machine,1820.4,Electronics
+96,Fridge,1890.22,Home Appliances
+97,Printer,1922.26,Office Supplies
+98,Camera,1066.85,Office Supplies
+99,Keyboard,1955.75,Accessories
+100,Speaker,1526.75,Electronics
+101,Laptop,365.26,Home Appliances
+102,Laptop,979.96,Electronics
+103,Laptop,1450.75,Electronics
+104,Laptop,532.31,Accessories
+105,Washing Machine,1299.2,Electronics
+106,Camera,1349.87,Home Appliances
+107,Headphones,367.26,Home Appliances
+108,Fridge,1151.92,Accessories
+109,Mouse,1554.67,Electronics
+110,Headphones,1022.85,Home Appliances
+111,Smartwatch,73.6,Electronics
+112,Monitor,67.63,Electronics
+113,Speaker,746.21,Electronics
+114,Fridge,1856.08,Accessories
+115,Gaming Console,495.92,Electronics
+116,Speaker,1287.01,Home Appliances
+117,Fridge,483.05,Electronics
+118,Tablet,677.26,Home Appliances
+119,Washing Machine,1703.68,Electronics
+120,Smartphone,1471.28,Home Appliances
+121,Washing Machine,236.03,Home Appliances
+122,Mouse,885.97,Electronics
+123,Speaker,106.88,Electronics
+124,Mouse,987.74,Home Appliances
+125,Smartwatch,1341.75,Office Supplies
+126,Headphones,281.08,Accessories
+127,Mouse,613.33,Office Supplies
+128,Router,825.78,Office Supplies
+129,Router,1843.09,Electronics
+130,Washing Machine,1986.85,Accessories
+131,Gaming Console,137.58,Office Supplies
+132,Monitor,1533.97,Electronics
+133,Washing Machine,774.86,Office Supplies
+134,TV,815.29,Office Supplies
+135,Smartphone,1520.82,Electronics
+136,Printer,1840.93,Electronics
+137,Camera,1904.31,Electronics
+138,Headphones,1175.39,Accessories
+139,Camera,746.39,Office Supplies
+140,Gaming Console,1585.72,Electronics
+141,Printer,539.45,Home Appliances
+142,Gaming Console,1149.94,Office Supplies
+143,Fridge,749.23,Home Appliances
+144,Headphones,1330.43,Accessories
+145,Headphones,518.78,Electronics
+146,Smartphone,423.61,Home Appliances
+147,Camera,1840.57,Accessories
+148,Router,248.52,Electronics
+149,Laptop,1036.62,Home Appliances
+150,Camera,480.66,Home Appliances
+151,Tablet,125.91,Accessories
+152,Gaming Console,120.24,Electronics
+153,Tablet,391.68,Electronics
+154,Headphones,1740.2,Home Appliances
+155,Laptop,600.83,Home Appliances
+156,Keyboard,1903.4,Home Appliances
+157,Printer,1184.16,Electronics
+158,Monitor,901.4,Accessories
+159,Laptop,1181.17,Accessories
+160,Fridge,1057.56,Electronics
+161,Monitor,1529.61,Office Supplies
+162,Speaker,600.87,Accessories
+163,Camera,738.45,Home Appliances
+164,Camera,1793.48,Office Supplies
+165,Monitor,1895.59,Office Supplies
+166,TV,1790.49,Accessories
+167,Washing Machine,867.92,Office Supplies
+168,Printer,1571.71,Office Supplies
+169,Fridge,978.85,Accessories
+170,Laptop,1020.2,Accessories
+171,Keyboard,449.13,Office Supplies
+172,Headphones,1202.7,Home Appliances
+173,Smartphone,412.97,Electronics
+174,Fridge,696.55,Office Supplies
+175,Camera,1717.31,Office Supplies
+176,Tablet,453.8,Home Appliances
+177,Printer,188.76,Office Supplies
+178,Smartphone,184.56,Office Supplies
+179,Gaming Console,1884.53,Electronics
+180,Gaming Console,1038.49,Electronics
+181,Washing Machine,848.35,Electronics
+182,Keyboard,1631.21,Accessories
+183,Gaming Console,1679.86,Accessories
+184,Fridge,697.77,Electronics
+185,Mouse,1402.56,Electronics
+186,Smartwatch,1553.69,Accessories
+187,Headphones,1326.57,Home Appliances
+188,Camera,345.61,Office Supplies
+189,Headphones,1757.97,Office Supplies
+190,Gaming Console,1101.23,Electronics
+191,TV,600.82,Home Appliances
+192,Speaker,879.19,Accessories
+193,Speaker,123.26,Electronics
+194,Washing Machine,299.34,Home Appliances
+195,Smartphone,1542.82,Home Appliances
+196,Speaker,50.02,Home Appliances
+197,Speaker,862.3,Accessories
+198,Headphones,1068.89,Accessories
+199,Smartwatch,156.54,Office Supplies
+200,Mouse,1947.5,Office Supplies
+201,Washing Machine,490.94,Home Appliances
+202,Smartphone,643.19,Home Appliances
+203,Camera,642.69,Accessories
+204,Laptop,499.31,Office Supplies
+205,Tablet,52.87,Home Appliances
+206,Smartphone,1472.22,Office Supplies
+207,Router,1935.35,Office Supplies
+208,TV,487.37,Home Appliances
+209,Washing Machine,1342.94,Accessories
+210,Mouse,1496.7,Home Appliances
+211,TV,1704.43,Home Appliances
+212,Smartphone,874.13,Office Supplies
+213,Smartphone,640.72,Home Appliances
+214,Router,684.33,Accessories
+215,Speaker,1439.61,Home Appliances
+216,Camera,1642.72,Accessories
+217,Fridge,404.15,Accessories
+218,Fridge,773.33,Office Supplies
+219,TV,1808.78,Electronics
+220,Smartphone,1623.05,Electronics
+221,Tablet,1970.47,Office Supplies
+222,Headphones,1520.78,Home Appliances
+223,Camera,816.73,Office Supplies
+224,Tablet,1201.74,Accessories
+225,Gaming Console,1338.98,Electronics
+226,Camera,202.99,Office Supplies
+227,Gaming Console,1111.77,Home Appliances
+228,Tablet,1433.18,Office Supplies
+229,Smartwatch,376.28,Electronics
+230,Mouse,1572.23,Office Supplies
+231,Speaker,1188.36,Office Supplies
+232,Tablet,1906.83,Electronics
+233,Monitor,132.72,Accessories
+234,Tablet,567.39,Accessories
+235,Laptop,1223.03,Electronics
+236,Laptop,628.29,Office Supplies
+237,Printer,1443.13,Electronics
+238,Gaming Console,1530.06,Accessories
+239,Monitor,249.91,Home Appliances
+240,Speaker,1052.02,Office Supplies
+241,Monitor,1042.34,Accessories
+242,Headphones,770.1,Office Supplies
+243,Monitor,1869.2,Electronics
+244,Headphones,1663.64,Home Appliances
+245,Printer,1409.56,Electronics
+246,Printer,1442.94,Home Appliances
+247,Mouse,950.35,Office Supplies
+248,Fridge,1845.94,Office Supplies
+249,Laptop,1404.46,Electronics
+250,Tablet,1471.51,Home Appliances
+251,Tablet,1730.3,Home Appliances
+252,Washing Machine,584.44,Office Supplies
+253,Gaming Console,1623.79,Electronics
+254,Router,430.72,Home Appliances
+255,Router,723.42,Office Supplies
+256,Keyboard,704.44,Accessories
+257,Camera,1958.12,Electronics
+258,Mouse,1720.25,Accessories
+259,Keyboard,1417.28,Electronics
+260,Keyboard,1467.76,Office Supplies
+261,Washing Machine,1146.04,Home Appliances
+262,Smartphone,1896.83,Home Appliances
+263,Gaming Console,1017.7,Home Appliances
+264,Smartphone,792.01,Electronics
+265,TV,367.92,Office Supplies
+266,Gaming Console,1583.1,Accessories
+267,Keyboard,1482.17,Office Supplies
+268,Monitor,799.49,Accessories
+269,Camera,99.13,Electronics
+270,Fridge,1686.04,Electronics
+271,Mouse,72.27,Accessories
+272,Gaming Console,1422.21,Accessories
+273,Fridge,1942.0,Accessories
+274,Keyboard,903.44,Office Supplies
+275,Speaker,508.2,Accessories
+276,Smartwatch,1424.5,Electronics
+277,Tablet,1643.4,Electronics
+278,Camera,1115.54,Home Appliances
+279,Smartphone,1935.72,Accessories
+280,TV,150.75,Office Supplies
+281,Tablet,1034.35,Office Supplies
+282,Fridge,1450.99,Office Supplies
+283,Gaming Console,1732.15,Home Appliances
+284,Smartphone,399.55,Electronics
+285,Smartphone,1610.01,Office Supplies
+286,Camera,1127.78,Electronics
+287,Smartphone,823.28,Home Appliances
+288,Fridge,306.84,Accessories
+289,Smartwatch,1737.33,Accessories
+290,Printer,356.68,Accessories
+291,TV,654.09,Office Supplies
+292,Laptop,615.59,Accessories
+293,Fridge,1749.26,Office Supplies
+294,Printer,1361.77,Home Appliances
+295,Fridge,1603.53,Home Appliances
+296,Laptop,538.41,Office Supplies
+297,Router,1268.5,Electronics
+298,Speaker,1164.9,Accessories
+299,Router,1674.02,Accessories
+300,Smartphone,1816.87,Accessories
+301,Washing Machine,73.71,Office Supplies
+302,Mouse,1364.34,Home Appliances
+303,Mouse,151.08,Accessories
+304,Laptop,1120.27,Home Appliances
+305,Tablet,610.88,Accessories
+306,Camera,648.21,Accessories
+307,Smartphone,738.27,Office Supplies
+308,Camera,1261.52,Electronics
+309,Printer,701.4,Office Supplies
+310,Mouse,1478.76,Accessories
+311,Monitor,838.83,Accessories
+312,TV,183.29,Electronics
+313,Printer,1578.33,Home Appliances
+314,Washing Machine,607.23,Home Appliances
+315,Speaker,893.9,Accessories
+316,TV,1386.62,Home Appliances
+317,Smartwatch,698.29,Accessories
+318,Printer,160.34,Electronics
+319,Laptop,779.15,Electronics
+320,Smartwatch,1891.67,Accessories
+321,Headphones,1301.38,Electronics
+322,Printer,1359.38,Office Supplies
+323,Smartwatch,1282.95,Office Supplies
+324,Smartphone,438.03,Electronics
+325,TV,865.75,Accessories
+326,Keyboard,1514.33,Accessories
+327,Keyboard,247.68,Electronics
+328,Smartphone,591.81,Home Appliances
+329,Fridge,588.82,Office Supplies
+330,Headphones,892.44,Home Appliances
+331,Speaker,1961.72,Accessories
+332,Headphones,181.63,Accessories
+333,Laptop,1061.47,Home Appliances
+334,Mouse,399.76,Electronics
+335,Washing Machine,1942.82,Home Appliances
+336,Camera,270.94,Home Appliances
+337,TV,837.02,Office Supplies
+338,Headphones,1488.88,Office Supplies
+339,Monitor,1423.88,Home Appliances
+340,Laptop,874.32,Home Appliances
+341,Router,725.72,Accessories
+342,Tablet,825.34,Office Supplies
+343,Router,565.34,Office Supplies
+344,Speaker,450.4,Accessories
+345,Laptop,991.93,Electronics
+346,TV,573.64,Office Supplies
+347,Smartwatch,610.55,Office Supplies
+348,Printer,1330.67,Electronics
+349,Camera,1938.65,Office Supplies
+350,Tablet,1227.09,Office Supplies
+351,Router,200.11,Electronics
+352,Fridge,197.39,Electronics
+353,Tablet,1905.28,Home Appliances
+354,Monitor,629.72,Accessories
+355,Monitor,229.53,Accessories
+356,Smartwatch,1218.14,Electronics
+357,Speaker,1266.12,Electronics
+358,Monitor,1314.58,Office Supplies
+359,Laptop,571.43,Home Appliances
+360,Camera,79.47,Home Appliances
+361,TV,1931.78,Electronics
+362,Smartwatch,539.24,Office Supplies
+363,Laptop,1368.25,Office Supplies
+364,Keyboard,1427.93,Accessories
+365,Fridge,1239.51,Accessories
+366,Printer,660.17,Office Supplies
+367,Gaming Console,578.64,Accessories
+368,Printer,1215.45,Electronics
+369,Monitor,1738.89,Office Supplies
+370,Keyboard,1896.13,Accessories
+371,Headphones,256.52,Home Appliances
+372,Headphones,351.92,Office Supplies
+373,TV,1892.24,Office Supplies
+374,Monitor,1486.24,Home Appliances
+375,Router,1771.84,Electronics
+376,Laptop,445.13,Home Appliances
+377,Monitor,1195.79,Office Supplies
+378,Mouse,1417.22,Electronics
+379,Washing Machine,1376.22,Accessories
+380,Tablet,845.9,Accessories
+381,TV,80.02,Accessories
+382,Washing Machine,1186.71,Office Supplies
+383,Printer,543.55,Home Appliances
+384,Headphones,928.0,Electronics
+385,Fridge,1917.28,Accessories
+386,Washing Machine,828.12,Electronics
+387,Smartphone,1687.61,Office Supplies
+388,Washing Machine,417.65,Accessories
+389,Gaming Console,1361.3,Office Supplies
+390,Headphones,1955.16,Home Appliances
+391,TV,248.69,Office Supplies
+392,Printer,66.22,Office Supplies
+393,TV,895.49,Home Appliances
+394,Tablet,230.62,Electronics
+395,Printer,1509.35,Home Appliances
+396,Speaker,1833.37,Home Appliances
+397,Smartphone,896.34,Office Supplies
+398,Monitor,554.49,Electronics
+399,Speaker,897.09,Accessories
+400,Keyboard,1460.72,Home Appliances
+401,Fridge,67.66,Electronics
+402,Smartphone,1199.44,Home Appliances
+403,Washing Machine,1245.92,Home Appliances
+404,Printer,1293.49,Home Appliances
+405,Printer,521.94,Home Appliances
+406,Mouse,1442.4,Office Supplies
+407,Smartwatch,228.21,Electronics
+408,Mouse,438.58,Electronics
+409,Camera,1761.07,Electronics
+410,Mouse,1490.51,Home Appliances
+411,Laptop,76.8,Office Supplies
+412,Keyboard,534.33,Home Appliances
+413,Speaker,468.09,Home Appliances
+414,Tablet,578.07,Electronics
+415,Speaker,532.74,Home Appliances
+416,Speaker,171.93,Accessories
+417,Smartphone,944.93,Home Appliances
+418,Printer,1478.83,Accessories
+419,Camera,1233.13,Home Appliances
+420,Camera,1362.1,Office Supplies
+421,Tablet,208.24,Office Supplies
+422,Keyboard,1905.41,Electronics
+423,Smartphone,1685.06,Home Appliances
+424,Headphones,1619.93,Accessories
+425,TV,1654.82,Accessories
+426,Mouse,1868.79,Home Appliances
+427,TV,1111.3,Accessories
+428,TV,440.55,Office Supplies
+429,Monitor,1252.73,Accessories
+430,TV,1498.62,Electronics
+431,Camera,1488.94,Office Supplies
+432,Mouse,1066.83,Office Supplies
+433,Mouse,183.49,Office Supplies
+434,Laptop,773.67,Home Appliances
+435,Keyboard,1845.49,Home Appliances
+436,Monitor,1189.68,Office Supplies
+437,TV,1099.75,Home Appliances
+438,Smartwatch,574.26,Accessories
+439,Headphones,768.48,Home Appliances
+440,Speaker,1795.92,Home Appliances
+441,Printer,1349.6,Office Supplies
+442,Laptop,1585.4,Electronics
+443,Mouse,935.97,Electronics
+444,Mouse,1278.98,Electronics
+445,Router,534.35,Accessories
+446,Monitor,1425.65,Home Appliances
+447,TV,883.82,Electronics
+448,Fridge,912.96,Office Supplies
+449,Monitor,1316.18,Electronics
+450,Router,1875.75,Electronics
+451,Gaming Console,174.81,Home Appliances
+452,Speaker,1658.25,Home Appliances
+453,Monitor,620.15,Home Appliances
+454,Mouse,915.64,Accessories
+455,Camera,92.73,Accessories
+456,Smartphone,637.04,Electronics
+457,Mouse,1030.13,Home Appliances
+458,Laptop,159.54,Electronics
+459,Keyboard,1007.64,Office Supplies
+460,Gaming Console,1857.87,Office Supplies
+461,Router,255.52,Home Appliances
+462,Headphones,1540.66,Home Appliances
+463,Printer,848.86,Office Supplies
+464,Headphones,1327.59,Home Appliances
+465,Fridge,557.46,Accessories
+466,Mouse,361.01,Accessories
+467,Laptop,362.9,Home Appliances
+468,TV,187.46,Office Supplies
+469,Mouse,412.01,Electronics
+470,Keyboard,1345.23,Home Appliances
+471,Camera,1769.3,Home Appliances
+472,Speaker,1637.55,Electronics
+473,Smartwatch,1386.01,Home Appliances
+474,Printer,265.34,Electronics
+475,Keyboard,613.92,Office Supplies
+476,Router,654.12,Accessories
+477,TV,537.42,Office Supplies
+478,Router,1054.26,Accessories
+479,Mouse,1094.33,Electronics
+480,Laptop,745.93,Accessories
+481,Keyboard,739.89,Office Supplies
+482,Tablet,1665.68,Accessories
+483,TV,1589.12,Electronics
+484,Washing Machine,650.2,Accessories
+485,Fridge,1831.89,Home Appliances
+486,Laptop,1907.99,Office Supplies
+487,Camera,687.15,Home Appliances
+488,TV,741.13,Electronics
+489,Router,1035.99,Accessories
+490,TV,1885.19,Home Appliances
+491,Smartwatch,1758.82,Home Appliances
+492,Mouse,250.01,Accessories
+493,Monitor,815.82,Accessories
+494,Router,1129.07,Office Supplies
+495,Smartwatch,1031.11,Home Appliances
+496,Fridge,428.03,Home Appliances
+497,Gaming Console,1724.69,Electronics
+498,Printer,1370.03,Office Supplies
+499,Smartphone,1683.92,Electronics
+500,Monitor,1724.59,Home Appliances
